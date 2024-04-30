@@ -47,6 +47,7 @@ A full-stack developer constantly exploring and learning about various domains o
   <a href="https://diversepixel.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diversepixel.com-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://diversepixel.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-diversepixel-blue?style=flat-square&logo=medium&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bhavyansh001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhavyansh%20Yadav-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/bhavyansh001"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-bhavyansh001-blue?style=flat-square&logo=tryhackme&logoColor=white"></a>
   <a href="mailto:bhavyansh001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bhavyansh001@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
