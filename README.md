@@ -1,6 +1,3 @@
-
-<div align="center">
-  
 <img src="./assets/Profile Photo.png" alt="Bhavyansh's Profile Photo" width="150px">
 
 # 👋 Hi, I'm Bhavyansh
@@ -74,4 +71,3 @@ A full-stack developer constantly exploring and learning about various domains o
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
