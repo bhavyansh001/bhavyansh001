@@ -2,9 +2,10 @@
 A full-stack developer constantly exploring and learning about various domains of coding.
 
 ## 🔍My Focus
- 💡 **Mastering Ruby on Rails:** Continuously improving my skills in Ruby on Rails to create robust and scalable web applications.<br>
- 💡 **Cybersecurity:** Delving deeper into cybersecurity to ensure the security and integrity of my projects.<br>
- 🎓 **Tech in General:** Eager to learn and explore new technologies and techniques to stay ahead in the industry.
+💡 **DevOps:** Passionate about implementing DevOps practices to streamline software development, deployment, and monitoring, ensuring reliable and efficient systems.
+💡 **Ruby on Rails:** Continuously improving my skills in Ruby on Rails to create robust and scalable web applications, while incorporating DevOps principles for streamlined development and deployment.
+💡 **Cybersecurity:** Delving deeper into cybersecurity, with a focus on DevSecOps practices, to ensure the security and integrity of my projects from inception to production.
+🎓 **Tech in General:** Eager to learn and explore new technologies and techniques, particularly in the areas of DevSecOps, to stay ahead in the industry.
 
 ## 🌟Let's Connect
 🌱 **Collaborate & Learn:** Open to discussions, collaborations, and learning from fellow enthusiasts in web development, cybersecurity, and beyond!
