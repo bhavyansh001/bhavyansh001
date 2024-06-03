@@ -61,7 +61,7 @@ A full-stack developer constantly exploring and learning about various domains o
 <p>
   <a href="https://diversepixel.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-diversepixel.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://diversepixel.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-diversepixel-blue?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://x.com/bhavyansh001"><img alt="X" src="https://img.shields.io/badge/X-bhavyansh001-white?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/bhavyansh001"><img alt="X" src="https://img.shields.io/badge/X-bhavyansh001-blue?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bhavyansh001/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhavyansh%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/bhavyansh001"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-bhavyansh001-blue?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="mailto:bhavyansh001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bhavyansh001@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
