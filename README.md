@@ -14,13 +14,9 @@ A Ruby on Rails developer constantly exploring and learning about various domain
 ## 👨‍💻Languages
 <p>
  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
- 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- 
 </p>
 
 ## 💻My Tech Stack
@@ -67,13 +63,7 @@ A Ruby on Rails developer constantly exploring and learning about various domain
 </p>
 
 ## 📚 Recent Projects
-Check out my [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects) for a collection of projects showcasing various DevOps tools and practices, including:
-
-1. Geeky: Full-stack Dynamic Mathematical game
-2. Tattle: Full-stack Real-time Chat app
-3. EventApp: Full-stack Event Management app
-4. Contained Rails: Multi-container Dockerized (docker-compose) application
-5. Articles API: REST API Backend
+Check out my [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects) for a collection of projects showcasing various DevOps tools and practices.
 
 ## 🤝Connect with Me
 <p>
