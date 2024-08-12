@@ -2,11 +2,11 @@
 A Ruby on Rails developer constantly exploring and learning about various domains of coding.
 
 ## 🔍My Focus
-💡 **Ruby & Rails:** Deeply immersed in Ruby and Rails ecosystem, currently writing a Ruby Deep Dive series on Medium to share my expanding knowledge and insights. Continuously improving my skills to create robust and scalable web applications with Rails.
+💡 **Ruby & Rails:** Deeply immersed in Ruby and Rails ecosystem, continuously improving my skills to create robust and scalable web applications with Rails.
 
-💡 **DevOps:** Passionate about implementing DevOps practices to streamline software development, deployment, and monitoring, ensuring reliable and efficient systems. Recently completed the "Decoding DevOps" series on Medium, showcasing various projects in my [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects).
+💡 **DevOps:** Passionate about implementing DevOps practices to streamline software development, deployment, and monitoring, ensuring reliable and efficient systems.
 
-🎓 **Tech in General:** Eager to learn and explore new technologies and techniques, particularly within the Ruby and Rails ecosystem and DevOps tools and principles, to stay ahead in the industry.
+🎓 **Tech in General:** Eager to learn and explore new technologies and techniques, particularly within the Ruby and Rails ecosystem and DevOps tools and principles.
 
 ## 🌟Let's Connect
 🌱 **Collaborate & Learn:** Open to discussions, collaborations, and learning from fellow enthusiasts in web development and beyond!
@@ -65,7 +65,10 @@ A Ruby on Rails developer constantly exploring and learning about various domain
 </p>
 
 ## 📚 Recent Projects
-Check out my [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects) for a collection of projects showcasing various DevOps tools and practices.
+<p>
+  [foodfusion](https://github.com/bhavyansh001/foodfusion) - Ruby on Rails app with a feature-rich backend.
+  [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects) - Collection of projects showcasing various DevOps tools and practices.  
+</p>
 
 ## 🤝Connect with Me
 <p>
