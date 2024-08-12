@@ -67,7 +67,7 @@ A Ruby on Rails developer constantly exploring and learning about various domain
 ## 📚 Recent Projects
 <p>
   [foodfusion](https://github.com/bhavyansh001/foodfusion) - Ruby on Rails app with a feature-rich backend.
-  [DevOps Projects repository](https://github.com/bhavyansh001/DevOps_Projects) - Collection of projects showcasing various DevOps tools and practices.  
+  [DevOps Project Repository](https://github.com/bhavyansh001/DevOps_Projects) - Collection of projects showcasing various DevOps tools and practices.
 </p>
 
 ## 🤝Connect with Me
