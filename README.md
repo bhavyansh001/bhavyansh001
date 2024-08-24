@@ -57,7 +57,7 @@ A Ruby on Rails developer constantly exploring and learning about various domain
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
 ## 📚 Recent Projects
-- [foodfusion](https://github.com/bhavyansh001/foodfusion) - Ruby on Rails app with a feature-rich backend.
+- [foodfusion](https://github.com/bhavyansh001/foodfusion) - Full stack Ruby on Rails app.
 - [DevOps Project Repository](https://github.com/bhavyansh001/DevOps_Projects) - Collection of projects showcasing various DevOps tools and practices.
 
 ## 🤝 Connect with Me
