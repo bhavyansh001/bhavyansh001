@@ -42,7 +42,6 @@ Co-founder of [Flux8Labs](https://flux8labs.com) — a digital agency building A
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyansh001&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyansh001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
