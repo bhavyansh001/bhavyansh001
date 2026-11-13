@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Bhavyansh
-software engineer also trying ventures
+Software engineer building useful software and exploring new ventures.
 
 ## 🔍 What I'm Building
-- **AI applications & RAG**
-- **Ecommerce dashboards**
-- **Quick commerce dashboards**
+- 🧠 **AI applications & RAG**
+- 🛒 **Ecommerce dashboards**
+- ⚡ **Quick commerce dashboards**
+- 🚀 **[Athkin](https://athkin.com)**
 - 🏗️ **Flux8Labs** — AI-powered ERPs, order management systems, and marketing sites for real businesses.
-- 🤖 **Local AI Agent Infrastructure** — Multi-agent teams running on local hardware with OpenClaw, Qwen3, and Gemma 4.
-- ✍️ **Technical Writing** — Covering AI, DevOps, and engineering war stories on Medium and Substack.
+- ✍️ **Technical Writing** — Writing about AI, software engineering, and building products on Medium and Substack.
 
 ## 💻 My Tech Stack
 
@@ -22,10 +22,14 @@ software engineer also trying ventures
 ### 🗃️ Databases & Hosting
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### 🤖 AI & Agents
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white)
 
 ### 🧰 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
