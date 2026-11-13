@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Bhavyansh
-Co-founder of [Flux8Labs](https://flux8labs.com) — a digital agency building AI-powered web products for businesses. I write about engineering, AI agents, and the craft of building things at [Medium](https://medium.com/@bhavyansh001) and [Substack](https://bhavyansh.substack.com).
+software engineer also trying ventures
 
 ## 🔍 What I'm Building
+- **AI applications & RAG**
+- **Ecommerce dashboards**
+- **Quick commerce dashboards**
 - 🏗️ **Flux8Labs** — AI-powered ERPs, order management systems, and marketing sites for real businesses.
 - 🤖 **Local AI Agent Infrastructure** — Multi-agent teams running on local hardware with OpenClaw, Qwen3, and Gemma 4.
 - ✍️ **Technical Writing** — Covering AI, DevOps, and engineering war stories on Medium and Substack.
